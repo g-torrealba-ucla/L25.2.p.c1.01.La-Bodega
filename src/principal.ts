@@ -23,4 +23,4 @@ bodega.procesarArticulo(articulo3);
 bodega.procesarArticulo(articulo4);
 bodega.procesarArticulo(articulo5);
 
-alert(`La ganancia sera de Bs.${bodega.totalGanancia()}`);
+alert(`La ganancia de la bodega será de Bs.${bodega.totalGanancia()}`);
